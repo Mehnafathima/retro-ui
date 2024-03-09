@@ -27,7 +27,7 @@ class _HomePageState extends State<HomePage> {
         title: const Padding(
           padding: EdgeInsets.only(right: 8.0),
           child: Text(
-            'Discover',
+            'Discovers',
             style: TextStyle(
                 // fontFamily: 'YourFontFamily', // Specify the desired font family
                 fontWeight: FontWeight.w900,
