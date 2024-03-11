@@ -16,7 +16,7 @@ class CategoryTile extends StatelessWidget {
       padding: const EdgeInsets.all(8.0),
       child: Container(
         decoration: BoxDecoration(
-          border: Border.all(width: 2, color: Colors.black), // Black border
+          border: Border.all(width: 2, color: Colors.pink), // Black border
           borderRadius: BorderRadius.circular(20.0), // Optional: Add border radius for a rounded look
         ),
         child: Row(
